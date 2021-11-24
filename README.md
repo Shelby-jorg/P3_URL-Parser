@@ -1,5 +1,6 @@
 # P3_URL-Parser
 This project was created by Shelby Jorgensen for my CSCI-151 class, Programming with C++. With this project, we learned how to work with string in C++, while also learning how to research the different libraries that are available to us and the functionality they can provide.
+
 Outline: URL Parser
 A Uniform Resource Locator (URL) is the standard way of representing content on the internet. Actually URLs are
 used for describing the location of many kinds of resources. URLs are strings composed of several different
